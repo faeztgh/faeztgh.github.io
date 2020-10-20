@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faeztgh.github.io/static/css/main.651701bc.chunk.css",
+    "main.js": "/faeztgh.github.io/static/js/main.071dedb2.chunk.js",
+    "main.js.map": "/faeztgh.github.io/static/js/main.071dedb2.chunk.js.map",
+    "runtime-main.js": "/faeztgh.github.io/static/js/runtime-main.6879ed66.js",
+    "runtime-main.js.map": "/faeztgh.github.io/static/js/runtime-main.6879ed66.js.map",
+    "static/js/2.c4b3efaf.chunk.js": "/faeztgh.github.io/static/js/2.c4b3efaf.chunk.js",
+    "static/js/2.c4b3efaf.chunk.js.map": "/faeztgh.github.io/static/js/2.c4b3efaf.chunk.js.map",
+    "index.html": "/faeztgh.github.io/index.html",
+    "precache-manifest.a9ea15dc28988d6772fd46f13c33f9e6.js": "/faeztgh.github.io/precache-manifest.a9ea15dc28988d6772fd46f13c33f9e6.js",
+    "service-worker.js": "/faeztgh.github.io/service-worker.js",
+    "static/css/main.651701bc.chunk.css.map": "/faeztgh.github.io/static/css/main.651701bc.chunk.css.map",
+    "static/js/2.c4b3efaf.chunk.js.LICENSE.txt": "/faeztgh.github.io/static/js/2.c4b3efaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6879ed66.js",
+    "static/js/2.c4b3efaf.chunk.js",
+    "static/css/main.651701bc.chunk.css",
+    "static/js/main.071dedb2.chunk.js"
+  ]
+}
