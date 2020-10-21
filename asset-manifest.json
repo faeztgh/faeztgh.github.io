@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/faez-dev/static/css/main.651701bc.chunk.css",
-    "main.js": "/faez-dev/static/js/main.071dedb2.chunk.js",
-    "main.js.map": "/faez-dev/static/js/main.071dedb2.chunk.js.map",
+    "main.css": "/faez-dev/static/css/main.2360a888.chunk.css",
+    "main.js": "/faez-dev/static/js/main.caf1d7ef.chunk.js",
+    "main.js.map": "/faez-dev/static/js/main.caf1d7ef.chunk.js.map",
     "runtime-main.js": "/faez-dev/static/js/runtime-main.e9c6dc6d.js",
     "runtime-main.js.map": "/faez-dev/static/js/runtime-main.e9c6dc6d.js.map",
-    "static/js/2.c4b3efaf.chunk.js": "/faez-dev/static/js/2.c4b3efaf.chunk.js",
-    "static/js/2.c4b3efaf.chunk.js.map": "/faez-dev/static/js/2.c4b3efaf.chunk.js.map",
+    "static/js/2.edd94021.chunk.js": "/faez-dev/static/js/2.edd94021.chunk.js",
+    "static/js/2.edd94021.chunk.js.map": "/faez-dev/static/js/2.edd94021.chunk.js.map",
     "index.html": "/faez-dev/index.html",
-    "precache-manifest.b149296b58afe9e70278e8e9f6592ac9.js": "/faez-dev/precache-manifest.b149296b58afe9e70278e8e9f6592ac9.js",
+    "precache-manifest.14bce2ee45d3cb29a85e43444c9a98b8.js": "/faez-dev/precache-manifest.14bce2ee45d3cb29a85e43444c9a98b8.js",
     "service-worker.js": "/faez-dev/service-worker.js",
-    "static/css/main.651701bc.chunk.css.map": "/faez-dev/static/css/main.651701bc.chunk.css.map",
-    "static/js/2.c4b3efaf.chunk.js.LICENSE.txt": "/faez-dev/static/js/2.c4b3efaf.chunk.js.LICENSE.txt"
+    "static/css/main.2360a888.chunk.css.map": "/faez-dev/static/css/main.2360a888.chunk.css.map",
+    "static/js/2.edd94021.chunk.js.LICENSE.txt": "/faez-dev/static/js/2.edd94021.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9c6dc6d.js",
-    "static/js/2.c4b3efaf.chunk.js",
-    "static/css/main.651701bc.chunk.css",
-    "static/js/main.071dedb2.chunk.js"
+    "static/js/2.edd94021.chunk.js",
+    "static/css/main.2360a888.chunk.css",
+    "static/js/main.caf1d7ef.chunk.js"
   ]
 }
