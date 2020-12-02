@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/faeztgh.github.io/static/css/main.31f0d32a.chunk.css",
-    "main.js": "/faeztgh.github.io/static/js/main.c5a58096.chunk.js",
-    "main.js.map": "/faeztgh.github.io/static/js/main.c5a58096.chunk.js.map",
+    "main.js": "/faeztgh.github.io/static/js/main.ddd147aa.chunk.js",
+    "main.js.map": "/faeztgh.github.io/static/js/main.ddd147aa.chunk.js.map",
     "runtime-main.js": "/faeztgh.github.io/static/js/runtime-main.e5fbc6e9.js",
     "runtime-main.js.map": "/faeztgh.github.io/static/js/runtime-main.e5fbc6e9.js.map",
     "static/css/2.58c19c3d.chunk.css": "/faeztgh.github.io/static/css/2.58c19c3d.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.58c19c3d.chunk.css",
     "static/js/2.73f6b691.chunk.js",
     "static/css/main.31f0d32a.chunk.css",
-    "static/js/main.c5a58096.chunk.js"
+    "static/js/main.ddd147aa.chunk.js"
   ]
 }
