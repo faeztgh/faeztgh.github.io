@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/faeztgh.github.io/static/css/main.39be93bc.chunk.css",
+    "main.css": "/faeztgh.github.io/static/css/main.414cb034.chunk.css",
     "main.js": "/faeztgh.github.io/static/js/main.0c4d9929.chunk.js",
     "main.js.map": "/faeztgh.github.io/static/js/main.0c4d9929.chunk.js.map",
     "runtime-main.js": "/faeztgh.github.io/static/js/runtime-main.e5fbc6e9.js",
@@ -10,14 +10,14 @@
     "static/js/2.2875af1d.chunk.js.map": "/faeztgh.github.io/static/js/2.2875af1d.chunk.js.map",
     "index.html": "/faeztgh.github.io/index.html",
     "static/css/2.58c19c3d.chunk.css.map": "/faeztgh.github.io/static/css/2.58c19c3d.chunk.css.map",
-    "static/css/main.39be93bc.chunk.css.map": "/faeztgh.github.io/static/css/main.39be93bc.chunk.css.map",
+    "static/css/main.414cb034.chunk.css.map": "/faeztgh.github.io/static/css/main.414cb034.chunk.css.map",
     "static/js/2.2875af1d.chunk.js.LICENSE.txt": "/faeztgh.github.io/static/js/2.2875af1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e5fbc6e9.js",
     "static/css/2.58c19c3d.chunk.css",
     "static/js/2.2875af1d.chunk.js",
-    "static/css/main.39be93bc.chunk.css",
+    "static/css/main.414cb034.chunk.css",
     "static/js/main.0c4d9929.chunk.js"
   ]
 }
