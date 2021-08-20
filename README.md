@@ -3,3 +3,4 @@
 ![React](https://img.shields.io/badge/%20-React-blue)
 
 
+<figure><embed src="https://wakatime.com/share/@f4ez/1a8e5344-f788-4e6d-b22b-e22b52a442c1.svg"></embed></figure>
